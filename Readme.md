@@ -91,7 +91,9 @@ The animation emphasizes **advanced 3D techniques**, **camera choreography**, **
 ## Installation
 
 1. **Clone the repository**
-   ```bash
-## git clone https://github.com/bushrajahan/3D_SHAPING_JOURNEY
-## cd 3D_STARSHIP_JOURNEY
-##   OPEN TERMINAL THEN RUN python -m manim -pqh main.py MasterScene --renderer=opengl --write_to_movie
+   ```bash git clone https://github.com/bushrajahan/3D_SHAPING_JOURNEY
+     cd 3D_STARSHIP_JOURNEY
+     code . // For vs code
+  
+     OPEN TERMINAL THEN RUN python -m manim -pqh main.py MasterScene --renderer=opengl --write_to_movie
+
